@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **RNA**
 
-- 📄 Know about my experiences [https://slebedeva.github.io/cv/](https://slebedeva.github.io/cv/)
+- 📄 Know about [**my experiences**](https://slebedeva.github.io/cv/)
 
 - ⚡ Fun fact **known cat lover**
 
