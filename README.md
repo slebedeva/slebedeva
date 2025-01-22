@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Svetlana</h1>
 <h3 align="center">An RNA biologist who likes to code</h3>
 
-- 🔭 I’m currently working on **predicting RNA stability**
+- 🔭 I’m currently working at the **University of Cologne**
 
-- 🌱 I’m currently learning **Transformers**
+- 🌱 I’m currently learning **Biological research data management**
 
 - 👯 I’m looking to collaborate on **ML projects in Bio**
 
